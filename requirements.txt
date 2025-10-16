@@ -1,6 +1,0 @@
-streamlit
-tensorflow
-scikit-learn
-Pillow
-numpy
-streamlit_lottie
