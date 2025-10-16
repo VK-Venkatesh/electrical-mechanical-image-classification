@@ -5,7 +5,8 @@
 **Categories:** `ac_motor`, `bevel_gear`, `crank_shaft`, `dc_motor`, `motor_winding`, `pistons`, `spur_gear`
 
 **Overview**
-This repository contains a deep learning project for classifying images of electrical and mechanical components. The images were collected (as stated) and organized into categorized folders. The pipeline covers dataset preparation, model building (CNN + small ANN head), training, evaluation, test predictions, and a real-time demo using a Streamlit app. The dataset is hosted on Kaggle (replace the placeholder link below with the actual Kaggle dataset URL).
+This repository contains a deep learning project for classifying images of electrical and mechanical components. The images were collected and organized into categorized folders. The pipeline covers dataset preparation, model building (CNN + small ANN head), training, evaluation, test predictions, and a real-time demo using a Streamlit app. The dataset is hosted on Kaggle
+(https://www.kaggle.com/datasets/venkatesh2410/images).
 
 ---
 
@@ -31,7 +32,7 @@ This repository contains a deep learning project for classifying images of elect
 * **Number of classes:** 7
 * **Expected organization:** A folder per class, with images inside. Example: `data/organized/ac_motor/*.jpg`
 
-**Kaggle dataset (replace the placeholder):** `https://www.kaggle.com/your-dataset-link`
+**Kaggle dataset:** `https://www.kaggle.com/datasets/venkatesh2410/images`
 
 ---
 
