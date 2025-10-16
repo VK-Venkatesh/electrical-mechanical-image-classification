@@ -68,7 +68,7 @@ This project uses a **CNN feature extractor + a small ANN head** to combine deep
 Use callbacks: `ModelCheckpoint`, `EarlyStopping`, `ReduceLROnPlateau`.
 
 ```python
-from tensorflow.keras.callbacks import ModelCheckpoint, EarlyStopping, ReduceLROnPlateau
+* from tensorflow.keras.callbacks import ModelCheckpoint, EarlyStopping, ReduceLROnPlateau.
 
 ## Evaluation & Results
 
