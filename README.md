@@ -28,20 +28,7 @@ This repository contains a deep learning project for classifying images of elect
 
 ## Dataset
 
-Due to large file sizes, the full dataset is **hosted on Kaggle** instead of GitHub.  
-You can access and download the dataset directly using the following link:
 
-🔗 **Kaggle Dataset:** [Electrical Tools Object Detection Dataset](https://www.kaggle.com/datasets/venkatesh2410/od-imglables)
-
-### 📁 Dataset Details
-- **Total Images:** 500+  
-- **Classes:** `['brush', 'drill machine', 'fine point pliers', 'hammer', 'knife', 'pliers', 'scissor', 'screwdrivers', 'spanners', 'tape']`
-- **Split Ratio:**  
-  - 🟩 Train: 70%  
-  - 🟨 Validation: 10%  
-  - 🟦 Test: 20%  
-- **Format:** YOLOv8 (Images + .txt Labels)
-- **Labeled Using:** [Roboflow](https://roboflow.com/)
 
 ---
 
