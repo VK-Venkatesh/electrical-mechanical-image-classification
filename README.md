@@ -28,7 +28,17 @@ This repository contains a deep learning project for classifying images of elect
 
 ## Dataset
 
+Due to large file sizes, the full dataset is **hosted on Kaggle** instead of GitHub.  
+You can access and download the dataset directly using the following link:
 
+🔗 **Kaggle Dataset:** [Electrical Tools Object Detection Dataset](https://www.kaggle.com/datasets/venkatesh2410/images)
+
+### 📁 Dataset Details
+- **Total Images:** 3500+  
+- **Classes:** [crank shaft, beval gear,DC Motors,pistons,motor winding,Ac Motors,spur gear]
+- **Split Ratio:**  
+  - 🟩 Train: 80%  
+  - 🟦 Test: 20%  
 
 ---
 
