@@ -35,7 +35,7 @@ You can access and download the dataset directly using the following link:
 
 ### 📁 Dataset Details
 - **Total Images:** 3500+  
-- **Classes:** [crank shaft, beval gear,DC Motors,pistons,motor winding,Ac Motors,spur gear]
+- **Classes:** [crank shaft, beval gear, dc motors, pistons, motor winding, ac motors, spur gear]
 - **Split Ratio:**  
   - 🟩 Train: 80%  
   - 🟦 Test: 20%  
