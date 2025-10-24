@@ -45,7 +45,7 @@ You can access and download the dataset directly using the following link:
 ## Data Preparation
 
 1. Arrange images into a single `data/organized/<class_name>/` structure.
-2. Run the provided split script (or use the notebook) to create `train/`, `val/`, `test/` subfolders. Typical splits: 70% train / 20% val / 10% test.
+2. Run the provided split script (or use the notebook) to create `train/`,`test/`.
 
 Example script (in `src/data_utils.py`) uses `ImageDataGenerator` for building generators. Key preprocessing steps:
 
@@ -80,7 +80,7 @@ Use callbacks: `ModelCheckpoint`, `EarlyStopping`, `ReduceLROnPlateau`.
 * Evaluate on the held-out `test/` set with the saved best model.
 * Compute confusion matrix and per-class precision/recall/F1 score using `sklearn.metrics`.
 
-Include plots for training/validation loss and accuracy in the `notebooks/03_evaluation.ipynb`.
+Include plots for training/validation loss and accuracy in the `notebooks.
 
 **If you want me to add a sample of results (confusion matrix and metrics), provide the model output or training logs and I will generate the plots and tables.**
 
