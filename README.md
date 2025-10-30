@@ -1,4 +1,4 @@
-# Electrical & Mechanical Components — Image Classification
+# Electrical & Mechanical Components - Image Classification
 
 **Project:** Image classification of 7 categories of electrical & mechanical parts
 
