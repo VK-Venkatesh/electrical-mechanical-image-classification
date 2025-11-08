@@ -19,7 +19,7 @@ from tensorflow.keras import models
 ################################### Loading Trained Predictive Model #########################
 # ...existing code...
 # ...existing code...
-MODEL_PATH = r"cd "D:\Internship\DL Project 3\Image Classification""
+MODEL_PATH = r"cd "D:\Internship\DL Project 3\Image Classification"
 st.write("File exists:", os.path.exists(MODEL_PATH))
 
 # ...existing code...# ...existing code...
@@ -131,4 +131,5 @@ else:
                 else:
                     for pic in pics:
                         predictions(pic)
+
 
